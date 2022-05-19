@@ -1,0 +1,16 @@
+{
+  "vendor": "vtexlab",
+  "name": "counter",
+  "version": "0.0.0",
+  "title": "Counter",
+  "description": "To count",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "docs": "0.x"
+  },
+  "dependencies": {},
+  "registries": ["smartcheckout"],
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
